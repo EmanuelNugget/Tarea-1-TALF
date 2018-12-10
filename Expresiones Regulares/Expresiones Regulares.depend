@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542902608 source:d:\c++\expresiones regulares\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1544145220 source:d:\c++\expresiones regulares - copia (2)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<string>
+
+1544419112 source:c:\users\equipo\desktop\expresiones regulares\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<string>
+
